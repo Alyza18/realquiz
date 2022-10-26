@@ -2,91 +2,91 @@
 let questions = [
     {
       numb: 1,
-      question: "What does HTML stand for?",
-      answer: "Hyper Text Markup Language",
+      question: "How many members are there in Korean boy band – BTS?",
+      answer: "Seven",
       options: [
-        "Hyper Text Preprocessor",
-        "Hyper Text Markup Language",
-        "Hyper Text Multiple Language",
-        "Hyper Tool Multi Language"
+        "Seven",
+        "Nine",
+        "five",
+        "four"
       ]
     },
     {
       numb: 2,
-      question: "What does CSS stand for?",
-      answer: "Cascading Style Sheet",
+      question: "Who has the most grammys?",
+      answer: "Sir Georg Soltit",
       options: [
-        "Common Style Sheet",
-        "Colorful Style Sheet",
-        "Computer Style Sheet",
-        "Cascading Style Sheet"
+        "Sir Georg Soltit",
+        "Taylor swift",
+        "Adele",
+        "Beyonce"
       ]
     },
     {
       numb: 3,
-      question: "What does PHP stand for?",
-      answer: "Hypertext Preprocessor",
+      question: "Blinding Lights’ is the longest-charting song in Billboard history and a hit for which singer?",
+      answer: "The Weekend",
       options: [
-        "Hypertext Preprocessor",
-        "Hypertext Programming",
-        "Hypertext Preprogramming",
-        "Hometext Preprocessor"
+        "The weekend",
+        "Justing bieber",
+        "Sam smith",
+        "Kendric Lamar"
       ]
     },
     {
       numb: 4,
-      question: "What does SQL stand for?",
-      answer: "Structured Query Language",
+      question: "In which country did Kanye West live when he was ten years old?",
+      answer: "China",
       options: [
-        "Stylish Question Language",
-        "Stylesheet Query Language",
-        "Statement Question Language",
-        "Structured Query Language"
+        "China",
+        "USA",
+        "France",
+        "Germany"
       ]
     },
     {
       numb: 5,
-      question: "What does XML stand for?",
+      question: " There was a very famous singer who was John Lennon’s hero, but John was disappointed when they finally met; name the singer?",
       answer: "eXtensible Markup Language",
       options: [
-        "eXtensible Markup Language",
-        "eXecutable Multiple Language",
-        "eXTra Multi-Program Language",
-        "eXamine Multiple Language"
+        "Elvis Presley",
+        "Michael Jackson",
+        "Ray Charles",
+        "Fats domino"
       ]
     },
     {
       numb: 6,
-      question: "When was HTML5 created?",
-      answer: "1993",
-      options: ["1157", "1985", "1993", "1991"]
+      question: "Who sang “All I want for Christmas is you”?",
+      answer: "Mariah Carey",
+      options: ["Mariah Carey", "Arianna Grande", "Taylor swift", "Beyonce"]
     },
     {
       numb: 7,
-      question: "When was CSS proposed?",
-      answer: "1994",
-      options: ["1994", "1986", "1997", "2003"]
+      question: "In 2017 Luis Fonsi and Daddy Yankee topped the chart in 47 countries with which song?",
+      answer: "Despacito",
+      options: ["Despacito", "dos veces", "calypso", "tanto"]
     },
     {
       numb: 8,
-      question: "When was CodePen.io created?",
-      answer: "2012",
-      options: ["2013", "2012", "2009", "2010"]
+      question: " In which video did Michael Jackson first perform his famous moonwalk in 1983?",
+      answer: "billie jeans",
+      options: ["beat it", "thriller", "billie jeans", "Chicago"]
     },
     {
       numb: 9,
-      question: "What are the three coding languages featured in CodePen?",
-      answer: "HTML,CSS and JavaScript",
+      question: "Björn Again is a tribute band for which world-famous pop group??",
+      answer: "Abba",
       options: [
-        "HTML,C++ and JSON",
-        "Javascript,CSS and SQL",
-        "HTML,CSS and JavaScript",
-        "C++,C# and C"
+        "Little mix",
+        "Queen",
+        "Spice girls",
+        "Abba"
       ]
     },
     {
       numb: 10,
-      question: "When was JavaScript created?",
+      question: "In which year did the Spice Girls release Wannabe?",
       answer: "1996",
       options: ["2005", "1991", "1996", "2001"]
     }
